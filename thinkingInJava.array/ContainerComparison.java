@@ -20,8 +20,9 @@ public class ContainerComparison {
         System.out.println(spheres[4]);
 
         List<BerylliumSphere> sphereList = new ArrayList<BerylliumSphere>();
-        for (int i = 0; i<5; i++)
+        for (int i = 0; i<5; i++){
             sphereList.add(new BerylliumSphere());
+        }
         System.out.println(sphereList);
         System.out.println(sphereList.get(4));
 
