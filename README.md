@@ -1,2 +1,2 @@
-# Spring-learning
-learn spring
+# Leaning Thinking In Java
+learn Java
